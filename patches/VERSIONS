@@ -1,0 +1,26 @@
+Source: https://github.com/GrapheneOS/Vanadium
+	Last updated:
+		2023/05/24
+		087110c8fffabd29c262a99e39d8d05f00f067d0
+	Deleted
+		*-Vanadium-branding.patch
+		*-Vanadium-branding-for-WebView.patch
+		*-Vanadium-string-rebranding.patch
+		*-redirect-settings-help-icon.patch
+		*-remove-Google-prefix-from-storage-settings-label.patch
+		*-add-back-trichrome_chrome_apk-targets.patch
+		*-add-trichrome-browser-apk-targets.patch
+		*-update-trichrome_library_apk-expectation-file.patch
+		*-update-dependencies.patch
+		*-Rolling-all-public-GMSCore-libraries.patch
+		*-Clean-up-logic-in-BuildInfo.targetsAtLeastT.patch
+		*-Update-to-Android-T-SDK.patch
+		*-set-original-package-to-org.chromium.chrome.patch
+		*-Support-for-extended-version-name-and-increments.patch
+		*-use-vanadium.app-for-component-updates.patch
+		*-use-grapheneos.network-when-verifying-DNS-over-HTTPS.patch
+
+Source: https://github.com/LineageOS/android_external_chromium-webview_patches
+	Last updated:
+		2023/05/23
+		d11ed57981f479ab0adea4a6e7b1e6eec8fb70c8
